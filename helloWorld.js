@@ -5,8 +5,8 @@
 // alert('Git is Awesome!');
 
 //! user's inputs
-const name = prompt('Enter your name');
-const num = prompt('Enter your favorite number');
+let name = prompt('Enter your name');
+let num = prompt('Enter your favorite number');
 
 //! Output for the user
 alert(`Welcome ${name}!`);
